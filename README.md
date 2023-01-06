@@ -1,5 +1,7 @@
 # Pig-Game-with-HTML-CSS-JS
 
+## Deployed link: https://saxena100parth.github.io/Pig-Game-with-HTML-CSS-JS/
+
 ..HOW TO PLAY
 
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
