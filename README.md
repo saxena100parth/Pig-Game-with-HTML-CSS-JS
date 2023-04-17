@@ -12,3 +12,5 @@ If the player rolls any other number, it is added to their turn total and the pl
 If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
 
 The first player to score 25 or more points wins.
+
+![pig_game](https://user-images.githubusercontent.com/87128985/232587310-434dad55-219d-4397-ab26-6c8adf59d0c0.jpg)
